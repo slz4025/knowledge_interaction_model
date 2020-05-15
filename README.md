@@ -1,1 +1,1 @@
-# knowledge_interaction_model
+# knowledge interaction model
